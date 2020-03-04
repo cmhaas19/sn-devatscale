@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Exec Summary">eb2b4062db9bc010c8c05214dc961980</compiled_page_registry>
+        <description/>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Exec Summary Search Context Config">672b4062db9bc010c8c05214dc96197e</global_search_data>
+        <name>Exec Summary</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>chris.haas@snc</sys_created_by>
+        <sys_created_on>2020-03-04 19:36:11</sys_created_on>
+        <sys_id>e32b4062db9bc010c8c05214dc961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Exec Summary</sys_name>
+        <sys_package display_value="Exec Summary" source="x_snc_exec_s8mmary">681b84eedb5bc010c8c05214dc9619d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exec Summary">681b84eedb5bc010c8c05214dc9619d5</sys_scope>
+        <sys_update_name>sys_aw_master_config_e32b4062db9bc010c8c05214dc961980</sys_update_name>
+        <sys_updated_by>chris.haas@snc</sys_updated_by>
+        <sys_updated_on>2020-03-04 19:36:11</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_url>exec_summary</workspace_url>
+    </sys_aw_master_config>
+</record_update>

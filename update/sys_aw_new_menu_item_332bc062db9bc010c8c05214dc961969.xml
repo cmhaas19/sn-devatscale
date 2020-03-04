@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_new_menu_item">
+    <sys_aw_new_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sys_class_name>sys_aw_new_menu_item</sys_class_name>
+        <sys_created_by>chris.haas@snc</sys_created_by>
+        <sys_created_on>2020-03-04 19:36:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>332bc062db9bc010c8c05214dc961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>incident</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Exec Summary" source="x_snc_exec_s8mmary">681b84eedb5bc010c8c05214dc9619d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exec Summary">681b84eedb5bc010c8c05214dc9619d5</sys_scope>
+        <sys_update_name>sys_aw_new_menu_item_332bc062db9bc010c8c05214dc961969</sys_update_name>
+        <sys_updated_by>chris.haas@snc</sys_updated_by>
+        <sys_updated_on>2020-03-04 19:36:11</sys_updated_on>
+        <table>incident</table>
+        <workspace_config display_value="Exec Summary">e32b4062db9bc010c8c05214dc961980</workspace_config>
+    </sys_aw_new_menu_item>
+</record_update>
